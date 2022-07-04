@@ -1,16 +1,11 @@
-# mini_project
+#Introduction
+Nowadays, it has become a common practice for students, who stay away from their home for studies or job purpose, to join a mess so that they don’t have to worry for food. And because of that mess business has grown significantly. With so many students, it is difficult for mess operators to manage their data such as attendance and finance. This eventually leads to miscalculation and may lead financial loss to the mess operator or to the customer.
 
-A new Flutter project.
+#Objective
 
-## Getting Started
+To ensure the smooth functioning of the Digital Mess Management system.
 
-This project is a starting point for a Flutter application.
+To overcome the shortcomings which were experienced by the Mess owner in maintaining the record.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To provide flexibility to the customers in marking attendance, records, payments etc.
+	
